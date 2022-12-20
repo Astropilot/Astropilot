@@ -16,7 +16,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Astropilot&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astropilot&hide_border=true&layout=compact&theme=radical&hide=html&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astropilot&hide_border=true&layout=compact&theme=radical&hide=html,php&count_private=true" align="center" /></div>  
 
 <br/>  
 
