@@ -3,14 +3,17 @@
 </div>
 <br/>  
 ## My Skill Set  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress" />
 </p>
 <br/>  
 ## Github Stats  
+
 <div align="center"><img src="https://githubcard.com/Astropilot.svg?d=l2bT1TUu" align="center" /></div>  
 
 ## Connect with me  
+
 <div align="center">
 <a href="https://github.com/Astropilot" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
