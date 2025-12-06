@@ -2,12 +2,14 @@
 <img src="./assets/github-header-image.png" align="center" height="" width="" />
 </div>
 <br/>  
+
 ## My Skill Set  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?perline=8&i=androidstudio,angular,apollo,bash,bootstrap,c,cs,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,graphql,html,java,js,jquery,kubernetes,linux,md,mysql,nginx,nodejs,php,postgres,powershell,py,regex,sass,ts,vim,visualstudio,vscode,wordpress" />
 </p>
 <br/>  
+
 ## Github Stats  
 
 <div align="center"><img src="https://githubcard.com/Astropilot.svg?d=l2bT1TUu" align="center" /></div>  
